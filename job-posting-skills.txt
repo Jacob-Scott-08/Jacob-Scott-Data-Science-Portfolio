@@ -1,0 +1,55 @@
+Job Posting A:
+Job Title: Senior Data Scientist
+Approximate Seniority Level: Senior, Reporting to The Director of Data Science
+
+Posting A Required Skills
+- Supply Chain Logistics
+- Forecasting and simulation
+- AWS/data bricks
+- Jupiter notebook
+- Agile Project Management
+- Model governance and leadership.
+- Model performance analysis.
+- Linear/non-Linear optimization
+- Gurobi/CPLEX
+
+Posting A Preferred Skills
+- Most Skills are Required
+
+Job Posting B:
+Job Title: Data Scientist 1
+Approximate Seniority Level: Early Career / Junior Data Scientist
+
+Posting B Required Skills
+- Bachelors degree
+- Four years of relative quantitative research and analytics experience
+
+Posting B Preferred Skills
+- Strong proficiency in SQL
+- Strong proficiency in R
+- Strong proficiency in Python
+- Strong coding and data wrangling skills
+- Experience working with electronic health records, (EMR's)
+- Data management and analysis
+- Data validation, and quality assurance
+- Data visualization
+
+Skills in Both Postings
+- Machine learning
+- Model evaluation
+- Python
+- SQL
+- Statistical analysis
+- Programming
+- Data cleaning and processing
+- Data pipelines
+- Communication of findings
+
+Things that stand out:
+One thing that stands out to me is how many skills are noted as required for Job Posting A, compared to Job Posting B. 
+This makes sense because Job Posting A seams to be more senior than Job Posting B. 
+One other thing that surprised me is how many skills are shared between the two Job Postings for them being different from each other. 
+
+
+
+
